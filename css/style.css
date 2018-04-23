@@ -90,6 +90,7 @@ nav {
 .card{
 	margin-top: 15px;
 	width: 24%;
+	max-width: 260px;
 }
 .first-p {
 	font-size: 9px;
