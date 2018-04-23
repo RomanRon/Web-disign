@@ -42,7 +42,6 @@ nav {
 	background: #fff url(../img/slider_bg.jpg) 0 0 no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
-	text-transform: uppercase;
 	padding-top: 120px;
 	padding-bottom: 300px;
 }
@@ -63,6 +62,7 @@ nav {
 	display: inline;
 	font-size: 70px;
 	padding: 0 13px;
+	text-transform: uppercase;
 }
 .banner-top p {
   font-size: 24px;
@@ -84,24 +84,15 @@ nav {
 	font-size: 20px;
 	margin-bottom: 20px;
 }
-.specialize-container>h3,
-.specialize-container>p {
+.specialize-container>h3 {
 	text-transform: uppercase;
 }
 .card{
-	width: 290px;
-}
-.first_p {
-	font-size: 20px;
-	color: #FFF;
-	background-color: #3f3f44;
-	padding: 30px;
-	margin: 0;
-	position: relative;
-	bottom: 20px;
+	margin-top: 15px;
+	width: 22%;
 }
 .first-p {
-	font-size: 13px;
+	font-size: 9px;
 	color: #FFF;
 	background-color: #3f3f44;
 	padding: 30px;
@@ -113,10 +104,10 @@ nav {
 	background-color: #ffeb00;
 	padding: auto;
 	padding-top: 10px;
-	height: 200px;
+	height: 203px;
 }
 .top_card h4 {
-	font-size: 20px;
+	font-size: 20;
 }
 .top_cart {
 	background: #e5e8ef;
