@@ -50,19 +50,71 @@ header {
 	width: 85%;
 	margin: 0 auto;
 }
+.banner-container div {
+	margin: 3px;
+}
+.banner-container>.mb-10 {
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
 .banner-top h2 {
 	background-color: #ffeb00;
 	color: #000;
 	display: inline;
 	font-size: 70px;
 	padding: 0 13px;
-	margin: 10px;
 }
 .banner-top p {
   font-size: 24px;
   color: rgb(255, 255, 255);
   background-color: #3f3f44;
   padding: 0 4px;
-  margin: 10px;
   display: inline;
+}
+.specialize-container {
+	width: 85%;
+	margin: 0 auto;
+	padding: 5%;
+	text-align: center;
+}
+.specialize-container h3 {
+	font-size: 35px;
+}
+.specialize-container p {
+	margin-top: 20px;
+	font-size: 20px;
+}
+.specialize-container>h3,
+.specialize-container>p {
+	text-transform: uppercase;
+}
+.card{
+	width: 290px;
+}
+.first_p {
+	font-size: 20px;
+	color: #FFF;
+	background-color: #3f3f44;
+	padding: 30px;
+	margin: 0;
+	position: relative;
+	bottom: 20px;
+}
+.first-p {
+	font-size: 13px;
+	color: #FFF;
+	background-color: #3f3f44;
+	padding: 30px;
+	margin: 0;
+	position: relative;
+	bottom: 20px;
+}
+.top_card {
+	background-color: #ffeb00;
+	padding: auto;
+	padding-top: 10px;
+	height: 170px;
+}
+.top_cart {
+	background: #e5e8ef;
 }
