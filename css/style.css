@@ -89,11 +89,10 @@ nav {
 }
 .card{
 	margin-top: 15px;
-	width: 22%;
+	width: 24%;
 }
-.specialize-container .first-p {
+.first-p {
 	font-size: 9px;
-	margin: 20px;
 	color: #FFF;
 	background-color: #3f3f44;
 	padding: 30px;
@@ -105,12 +104,10 @@ nav {
 	background-color: #ffeb00;
 	padding: auto;
 	padding-top: 10px;
-	height: 171px;
+	height: 203px;
 }
-
 .top_card h4 {
 	font-size: 20;
-	margin-bottom: 30px;
 }
 .top_cart {
 	background: #e5e8ef;
