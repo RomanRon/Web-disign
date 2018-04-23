@@ -10,6 +10,7 @@
 	}
 	.main-menu {
 		display: none;
+		margin-bottom: auto;
 	}
 	.main-menu li {
 		display: block;
@@ -45,5 +46,31 @@
 		position: relative;
 		top: 30px;
 		right: 115px;
+		margin-bottom: 1px;
+	}
+	.banner-top h2 {
+		font-size: 40px;
+	}
+	.specialize-container>h3 {
+		font-size: 40px;
+	}
+	.banner-top {
+		padding-top: 40px;
+		padding-bottom: 60px;
+	}
+
+}
+@media ( max-width: 480px ) {
+	.banner-top h2 {
+		font-size: 25px;
+	}
+	.banner-top p {
+		font-size: 15px;
+	}
+	.specialize-container>h3 {
+		font-size: 25px;
+	}
+	.specialize-container>p {
+		font-size: 15px;
 	}
 }

@@ -30,7 +30,7 @@ header {
 .nav-container a:hover {
 	background-color: #ffeb00;
 }
-.nav {
+nav {
 	margin-top: 20px;
 }
 #menu-checkbox {
@@ -74,7 +74,6 @@ header {
 .specialize-container {
 	width: 85%;
 	margin: 0 auto;
-	padding: 5%;
 	text-align: center;
 }
 .specialize-container h3 {
@@ -83,6 +82,7 @@ header {
 .specialize-container p {
 	margin-top: 20px;
 	font-size: 20px;
+	margin-bottom: 20px;
 }
 .specialize-container>h3,
 .specialize-container>p {
@@ -113,8 +113,14 @@ header {
 	background-color: #ffeb00;
 	padding: auto;
 	padding-top: 10px;
-	height: 170px;
+	height: 200px;
+}
+.top_card h4 {
+	font-size: 20px;
 }
 .top_cart {
 	background: #e5e8ef;
+}
+section {
+	margin-bottom: 2vw;
 }
